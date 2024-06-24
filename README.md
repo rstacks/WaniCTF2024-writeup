@@ -44,8 +44,12 @@ in the competition and the software I used below my writeups.
 
 ## Results
 
+I was the sole member of team Boy Wonder. I scored **852 points** in total and finished **380th out of 1022** teams (that solved at least one challenge).
 
+![Results image](results.png)
+
+![Solves list image](solves.png)
 
 ## Software and Tools
 
-The challenges I completed during this competition did not require many special tools. I was able to solve all of the challenges I attempted using my laptop with [Ubuntu 22.04](https://ubuntu.com/desktop), as well as [Kali Linux](https://www.kali.org/) through [VirtualBox](https://www.virtualbox.org/).
+The challenges I completed during this competition did not require many special tools. I was able to solve all of the challenges I attempted using my laptop with [Ubuntu 22.04](https://ubuntu.com/desktop) and [Kali Linux](https://www.kali.org/) through [VirtualBox](https://www.virtualbox.org/).
