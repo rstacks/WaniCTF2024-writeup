@@ -1,1 +1,1 @@
-# WaniCTF2024-writeup
+# WaniCTF 2024 Writeup
