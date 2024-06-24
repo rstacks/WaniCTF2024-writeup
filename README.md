@@ -5,6 +5,45 @@ in the competition and the software I used below my writeups.
 
 ## Solved Challenges
 
+<details>
+  <summary>Crypto</summary>
+
+  * [beginners_aes](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Crypto/beginners_aes)
+  * [beginners_rsa](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Crypto/beginners_rsa)
+  * [replacement](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Crypto/replacement)
+  
+</details>
+
+<details>
+  <summary>Forensics</summary>
+
+  * [tiny_usb](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Forensics/tiny_usb)
+  
+</details>
+
+<details>
+  <summary>Pwnable</summary>
+
+  * [nc](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Pwnable/nc)
+  
+</details>
+
+<details>
+  <summary>Reversing</summary>
+
+  * [lambda](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Reversing/lambda)
+  
+</details>
+
+<details>
+  <summary>Web</summary>
+
+  * [Bad_Worker](https://github.com/rstacks/WaniCTF2024-writeup/tree/master/Web/Bad_Worker)
+  
+</details>
+
+## Results
+
 
 
 ## Software and Tools
