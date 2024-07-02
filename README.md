@@ -3,6 +3,8 @@
 [WaniCTF 2024](https://wanictf.org/) was a 48 hour competition that ran from 6/21/2024 to 6/23/2024. Below are my writeups for the challenges that I was able to complete. You can also see my results
 in the competition and the software I used below my writeups.
 
+Click [here](https://github.com/rstacks/ctf-writeups) to check out my writeups for other CTFs I've participated in.
+
 ## Solved Challenges
 
 <details>
